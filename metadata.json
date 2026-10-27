@@ -1,0 +1,6 @@
+{
+  "name": "俄羅斯方塊 (Tetris)",
+  "description": "經典俄羅斯方塊網頁版，具備標準方塊旋轉、幽靈方塊、暫存保留、連擊消除特效與復古音效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
